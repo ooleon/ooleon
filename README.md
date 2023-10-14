@@ -122,3 +122,27 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/ooleon/ooleon/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/ooleon/ooleon/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/ooleon/ooleon/count.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ooleon/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="/count.svg"  />
+</div>
+
+###
