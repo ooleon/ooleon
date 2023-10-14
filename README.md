@@ -118,13 +118,13 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ooleon/count.svg?"  />
+  <img height="200" src="/count.svg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="/count.svg"  />
+  <img src="https://profile-counter.glitch.me/ooleon/count.svg?"  />
 </div>
 
 ###
