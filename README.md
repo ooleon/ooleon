@@ -1,9 +1,10 @@
 ### Hi there 👋
-<h2 align="left">Hi 👋! I hope you are well. I had experience over 15 years as Backend Developer, and Data Engineer with Power BI ETL in several kind of companies like oil company, health, banc, financial, telecom consulting, among others companies.
-I feel comfortable working remotely as Backend Developer (Java Python C#) also Business Analyst, Data Engineer as well as Analyst in BI ETL tools like (with Power BI, Pentaho or  MicroStrategy). 
+<h2 align="left">Hi 👋! I hope you are well. I had experience over 15 years as Backend Developer, and Data Engineer with Power BI ETL in several kind of companies like oil company, health, banc, financial, telecom consulting, among others companies. </h2>
+<p>I feel comfortable working remotely as Backend Developer (Java Python C#) also Business Analyst, Data Engineer as well as Analyst in BI ETL tools like (with Power BI, Pentaho or  MicroStrategy). 
 As a Backend Developer Senior and Data Engineer I’ve used these technologies, Java Python C#, Spring Boot, Log4J, DJAngo, .Net, Microservice REST SOAP MQ, Hibernate , service buss workflow Apache Camel, Karaf, Activemq, MongoDB, Oracle PL/SQL, MsSql Server Test Junit, Selenium, GIT, e NoSQL, Docker, Cloud AWS RDS, Power BI MDX DAX.
 I'm a team player, I really like learning and teaching.
-I used recently this technologies Java Spring Boot Hibernate Apache libraries, and common open-source frameworks Oracle PL/SQL Microservice Rest Docker Log4J Junit Testing tools AWS and others, in a international English project for archive the German government’s requirements. and I have self practice with new technologies. My name is Leon, Osty and I'm a Software Enginer, from latam (just whisper I was born in Venezuela but I have already lived in several countries).  ....</h2>
+I used recently this technologies Java Spring Boot Hibernate Apache libraries, and common open-source frameworks Oracle PL/SQL Microservice Rest Docker Log4J Junit Testing tools AWS and others, in a international English project for archive the German government’s requirements. and I have self practice with new technologies. My name is Leon, Osty and I'm a Software Enginer, from latam (just whisper I was born in Venezuela but I have already lived in several countries).
+....</p>
 
 ###
 
