@@ -1,4 +1,7 @@
-<p align="left">Hi 👋! I hope you are well. I had experience over 15 years as Backend Developer, and Data Engineer with Power BI ETL in several kind of companies like oil company, health, banc, financial, telecom consulting, among others companies. </h2><br><p>I feel comfortable working remotely as Backend Developer (Java Python C#) also Business Analyst, Data Engineer as well as Analyst in BI ETL tools like (with Power BI, Pentaho or  MicroStrategy). <br>As a Backend Developer Senior and Data Engineer I’ve used these technologies, Java Python C#, Spring Boot, Log4J, DJAngo, .Net, Microservice REST SOAP MQ, Hibernate , service buss workflow Apache Camel, Karaf, Activemq, MongoDB, Oracle PL/SQL, MsSql Server Test Junit, Selenium, GIT, e NoSQL, Docker, Cloud AWS RDS, Power BI MDX DAX.<br>I'm a team player, I really like learning and teaching.<br>I used recently this technologies Java Spring Boot Hibernate Apache libraries, and common open-source frameworks Oracle PL/SQL Microservice Rest Docker Log4J Junit Testing tools AWS and others, in a international English project for archive the German government’s requirements. and I have self practice with new technologies. My name is Leon, Osty and I'm a Software Enginer, from latam (just whisper I was born in Venezuela and I actualy live in Brazil).</p>
+<p align="left">Hi 👋! I hope you are well. I had experience over 15 years as Backend Developer, and Data Engineer with Power BI ETL in several kind of companies like oil company, health, banc, financial, telecom consulting, among others companies. <br><p>I feel comfortable working remotely as Backend Developer (Java Python C#) also Business Analyst, Data Engineer as well as Analyst in BI ETL tools like (with Power BI, Pentaho or  MicroStrategy). <br>As a Backend Developer Senior and Data Engineer I’ve used these technologies, Java Python C#, Spring Boot, Log4J, DJAngo, .Net, Microservice REST SOAP MQ, Hibernate , service buss workflow Apache Camel, Karaf, Activemq, MongoDB, Oracle PL/SQL, MsSql Server Test Junit, Selenium, GIT, e NoSQL, Docker, Cloud AWS RDS, Power BI MDX DAX.<br>I'm a team player, I really like learning and teaching.<br>I used recently this technologies Java Spring Boot Hibernate Apache libraries, and common open-source frameworks Oracle PL/SQL Microservice Rest Docker Log4J Junit Testing tools AWS and others, in a international English project for archive the German government’s requirements. and I have self practice with new technologies. My name is Leon, Osty and I'm a Software Enginer, from latam (just whisper I was born in Venezuela and I actualy live in Brazil).
+<br>
+geenrated by profile-readme-generator.com
+</p>
 
 ###
 
@@ -86,7 +89,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
 </div>
 
-###
+### Social Media
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ooleondev/" target="_blank">
@@ -108,7 +111,7 @@
   </a>
 </div>
 
-###
+### Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ooleon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -117,7 +120,7 @@
 </div>
 
 
-###
+### Culebra
 
 <div align="center">
   <img height="200" src="/count.svg"  />
